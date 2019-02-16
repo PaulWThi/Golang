@@ -1,0 +1,1 @@
+package _10_short_declaration_operator
